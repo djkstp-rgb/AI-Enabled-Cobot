@@ -1,6 +1,6 @@
 # AI-Enabled Collaborative Robot for Agricultural Harvesting
 
-**Featured Press:** [Read the Official Universal Robots Feature Article]([https://universal-robots.com](https://www.universal-robots.com/blog/university-students-harness-ur-robots-and-ai-for-agriculture/#anchor-form)  
+**Featured Press:** [Read the Official Universal Robots Feature Article](https://www.universal-robots.com/blog/university-students-harness-ur-robots-and-ai-for-agriculture/)  
 **Recognition:** Winner — *Outstanding Poster and Presentation Award* (CSUMB Summer Research Symposium)
 
 ---
