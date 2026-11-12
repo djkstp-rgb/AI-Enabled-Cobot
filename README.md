@@ -33,4 +33,4 @@ Developed during a summer research internship at California State University, Mo
 ### Contact
 **Devyn J. Korman**  
 Mechatronics Engineering Student at CSUMB
-[LinkedIn Profile]([https://linkedin.com](https://www.linkedin.com/in/d-korman-a68752214/details/experience/edit/forms/3064499988/)) | jkorman@csumb.edu
+[LinkedIn Profile](https://www.linkedin.com/in/d-korman-a68752214/details/experience/edit/forms/3064499988/) | jkorman@csumb.edu
